@@ -3,12 +3,10 @@ title: "Publications"
 editor: visual
 ---
 
-
-::: {.callout-note}
-
 ## Journal Papers
 
--   **Tan, J.**, & Yanto, C. 2025.  AI as a framework for public service innovation, **Public Money & Management**, Online. [Link](https://doi.org/10.1080/09540962.2025.2505206)
+-   **Tan, J.**, & Yanto, C. 2025. AI as a framework for public service innovation, **Public Money & Management**, Online. [Link](https://doi.org/10.1080/09540962.2025.2505206)
 
 ## Book Chapter
-Chandra, Y., Luo, Y. Y., & **Tan, J. X.** "Trust Me, I am Almost a Doctor: Uncertainty in Artificial Intelligence Mediated Doctor-Patient Interactions.” **Nature Springer**. Artificial Intelligence and the Future of Human Relations – Eastern and Western Perspectives. [Link] (https://doi.org/10.1007/978-981-96-7185-4_10)
+
+Chandra, Y., Luo, Y. Y., & **Tan, J. X.** "Trust Me, I am Almost a Doctor: Uncertainty in Artificial Intelligence Mediated Doctor-Patient Interactions.” **Nature Springer**. Artificial Intelligence and the Future of Human Relations – Eastern and Western Perspectives. [Link](https://link.springer.com/book/10.1007/978-981-96-7185-4)

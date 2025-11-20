@@ -8,8 +8,7 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: jianxitan3-@my.cityu.edu.hk
-    - icon: fingerprint
+      text: jianxitan3-c@my.cityu.edu.hk
 ---
 
 ::: {#hero-heading}

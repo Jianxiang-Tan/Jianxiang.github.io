@@ -1,0 +1,10 @@
+---
+title: "Conferences"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+25 - 28 June 2025 Public Management Research Conference (PMRC) 2025
+Seoul National University, Korea
+Yanto Chandra and Jianxiang Tan. “Mapping the Landscape of Public Sector Innovation: A Topic Modeling Approach.”
