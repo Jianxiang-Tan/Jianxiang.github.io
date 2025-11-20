@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: "Conferences"
 editor: 
   markdown: 
     wrap: 72
