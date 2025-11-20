@@ -7,7 +7,7 @@ website:
   title: "Jianxiang Tan"
   site-url: https://jianxiang.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://github.com/Jianxiang-Tan/jianxiang.github.io
   repo-actions: [edit, issue]
   
   page-footer:
@@ -24,16 +24,16 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
-      - text: "中文"
-        href: Chinese.qmd
-      - text: "CV"
-        href: CV.pdf
+      - text: "Conferences"
+        #href: books.qmd
+      - text: "Activities"
+        #href: blog.qmd
+      - #text: "Codes"
+        #href: codes.qmd
+      - #text: "中文"
+        #href: Chinese.qmd
+      - #text: "CV"
+        #href: CV.pdf
 
 format:
   html:
