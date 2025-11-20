@@ -25,9 +25,9 @@ website:
       - text: "Publications"
         href: publications.qmd
       - text: "Conferences"
-        #href: books.qmd
+        href: books.qmd
       - text: "Activities"
-        #href: blog.qmd
+        href: blog.qmd
       - #text: "Codes"
         #href: codes.qmd
       - #text: "中文"
