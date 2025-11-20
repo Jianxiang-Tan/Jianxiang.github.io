@@ -7,33 +7,20 @@ website:
   title: "Jianxiang Tan"
   site-url: https://jianxiang.github.io
   favicon: images/site-logo.png
-  #repo-url: https://github.com/Jianxiang-Tan/jianxiang.github.io
-  #repo-actions: [edit, issue]
-  
-  #page-footer:
-    #left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
-    #right: |
-      Made with [Quarto](https://quarto.org/)<br>
-    
-  navbar: 
-    background: "#A9CCE3"
-    search: true
-    right: 
-      - text: "Home"
-        href: index.qmd
-      - text: "Publications"
-        href: publications.qmd
-      - text: "Conferences"
-        href: conferences.qmd
-      - text: "Activities"
-        href: activities.qmd
-      # - text: "Codes"
-      #   href: codes.qmd
-      # - text: "中文"
-      #   href: Chinese.qmd
-      # - text: "CV"
-      #   href: CV.pdf
+
+# 完全注释掉 navbar 部分
+# navbar: 
+#   background: "#A9CCE3"
+#   search: true
+#   right: 
+#     - text: "Home"
+#       href: index.qmd
+#     - text: "Publications"
+#       href: publications.qmd
+#     - text: "Conferences"
+#       href: conferences.qmd
+#     - text: "Activities"
+#       href: activities.qmd
 
 format:
   html:
