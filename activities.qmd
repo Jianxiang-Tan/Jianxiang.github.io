@@ -4,5 +4,6 @@ editor:
   markdown: 
     wrap: 72
 ---
-Jan 2025 - Now Teaching Assistant
-Course: Statistical Analysis for Public Policy and Management (Instructor: Yanto Chandra) Main Tasks: Give a guest lecture on the survey experiment; Assess students’ assignments
+Jan 2025 - Jun 2025 Teaching Assistant
+Course: Statistical Analysis for Public Policy and Management (Instructor: Yanto Chandra) 
+Main Tasks: Give a guest lecture on the survey experiment; Assess students’ assignments

@@ -7,15 +7,20 @@ editor:
 
 ## Conference Papers & Presentations
 
-### 25–28 June 2025 — Public Management Research Conference (PMRC) 2025
+### June 2025 — Public Management Research Conference (PMRC) 2025
 Seoul National University, Korea
 
 - Yanto Chandra & **Jianxiang Tan** — "Mapping the Landscape of Public Sector Innovation: A Topic Modeling Approach."
 
-### 07–09 April 2025 — Civic Engagement and Social Capital in Contemporary Public Administration
-Facing the Challenges of Social Equity and Environmental Sustainability
+### April 2025 — Civic Engagement and Social Capital in Contemporary Public Administration
 International Research Society for Public Management (IRSPM), Italy
 
 - **Jianxiang Tan** & Yanto Chandra — "Artificial Intelligence Recommendations and Citizen Compliance: A Public Value Creation Perspective."
 - Yanto Chandra, Yiyun Luo, & **Jianxiang Tan** — "Trust Me, I am Almost a Doctor: Uncertainty in Artificial Intelligence Mediated Doctor-Patient Interactions."
-- Yanto Chandra** & **Jianxiang Tan** — "Probing the Past to Chart Plausible Futures in Public Sector Innovation: Toward a Design Science in AI-Driven Public Administration"
+- Yanto Chandra & **Jianxiang Tan** — "Probing the Past to Chart Plausible Futures in Public Sector Innovation: Toward a Design Science in AI-Driven Public Administration"
+
+### November 2024 - AI and Public Policy International Conference 2024
+Nanyang Technological University, Singapore
+
+- **Jianxiang Tan** and Yanto Chandra - “Artificial Intelligence Recommendations and Citizen Compliance: A Public Value Creation Perspective.”
+- Yanto Chandra and **Jianxiang Tan** - “Predicting Public Service Innovation Outcomes using Generative Artificial Intelligence.”
